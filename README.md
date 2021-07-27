@@ -3,15 +3,14 @@
 ## Git
 #### Pull latest changes
 <i>Command + T</i>
-
 #### Commit
-<pre> Command + K</pre>
+<i> Command + K</i>
 Then to execute commit
-<pre>Command + Enter</pre>
+<i>Command + Enter</i>
 or commit + push by:
-<pre>Command + option + K</pre>
+<i>Command + option + K</i>
 
 #### Commit and push
-<pre> Command + Shift + K </pre>
+<i> Command + Shift + K </i>
 Then to execute push 
-<pre>Command + Enter</pre>
+<i>Command + Enter</i>
