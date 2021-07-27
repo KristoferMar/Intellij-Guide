@@ -1,16 +1,17 @@
 # Intellij shorcuts mac
 
 ## Git
-#### Pull latest changes
+<b> Pull latest changes<b><br>
 <i>Command + T</i>
-#### Commit
+
+  <b> Commit</b>
 <i> Command + K</i><br><br>
 Then to execute commit<br>
 <i>Command + Enter</i><br><br>
 or commit + push by:<br>
 <i>Command + option + K</i><br><br>
 
-#### Commit and push
+  <b> Commit and push</b>
 <i> Command + Shift + K </i>
 Then to execute push 
 <i>Command + Enter</i>
