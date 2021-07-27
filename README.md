@@ -1,2 +1,6 @@
-# Intellij-Guide
-Holds valuable information about Intellij
+# Intellij shorcuts mac
+
+## Git
+
+### Pull latest changes
+<pre>Command + T</pre>
