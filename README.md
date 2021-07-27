@@ -15,3 +15,7 @@ or commit + push by:<br>
 <i> Command + Shift + K </i><br>
 Then to execute push <br>
 <i>Command + Enter</i> <br>
+
+## Code 
+<b>Collapse all codeblocks</b><br>
+<i>Cmd + Shift + -</i><br>
