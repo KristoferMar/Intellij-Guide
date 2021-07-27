@@ -4,7 +4,7 @@
 <b>Pull latest changes</b><br>
 <i>Command + T</i>
 
-<b> Commit</b>
+<b> Commit</b><br>
 <i> Command + K</i><br><br>
 Then to execute commit<br>
 <i>Command + Enter</i><br><br>
