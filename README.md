@@ -19,3 +19,9 @@ Then to execute push <br>
 ## Code 
 <b>Collapse all codeblocks</b><br>
 <i>Cmd + Shift + -</i><br>
+
+
+
+## Utility
+<b>Open Preferences</b><br>
+<i>Cmd + ,</i>
