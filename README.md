@@ -4,11 +4,11 @@
 #### Pull latest changes
 <i>Command + T</i>
 #### Commit
-<i> Command + K</i><br>
+<i> Command + K</i><br><br>
 Then to execute commit<br>
-<i>Command + Enter</i><br>
+<i>Command + Enter</i><br><br>
 or commit + push by:<br>
-<i>Command + option + K</i><br>
+<i>Command + option + K</i><br><br>
 
 #### Commit and push
 <i> Command + Shift + K </i>
