@@ -20,6 +20,12 @@ Then to execute push <br>
 <b>Collapse all codeblocks</b><br>
 <i>Cmd + Shift + -</i><br>
 
+<b>Expand all codeblocks</b><br>
+<i>Cmd + Shift + +</i><br>
+
+<b>Expand a single codeblock</b><br>
+<i>Cmd + +</i><br>
+
 
 
 ## Utility
