@@ -2,7 +2,7 @@
 
 ## Git
 #### Pull latest changes
-<pre>Command + T</pre>
+<i>Command + T</i>
 
 #### Commit
 <pre> Command + K</pre>
