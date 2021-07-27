@@ -1,7 +1,7 @@
 # Intellij shorcuts mac
 
 ## Git
-<b> Pull latest changes<b><br>
+<b>Pull latest changes</b><br>
 <i>Command + T</i>
 
 <b> Commit</b>
