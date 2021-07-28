@@ -27,7 +27,7 @@ Then to execute push <br>
 <i>Cmd + +</i><br>
 
 <b>Add missing code dependency or reference</b><br>
-<i>Shift + option + enter</i><br>
+<i>option + enter</i><br>
 
 
 ## Utility
