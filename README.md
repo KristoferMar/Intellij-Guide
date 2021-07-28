@@ -26,7 +26,7 @@ Then to execute push <br>
 <b>Expand a single codeblock</b><br>
 <i>Cmd + +</i><br>
 
-<b>Add missing code dependency or refference</b><br>
+<b>Add missing code dependency or reference</b><br>
 <i>Shift + option + enter</i><br>
 
 
